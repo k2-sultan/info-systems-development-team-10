@@ -1,1 +1,0 @@
-# info-systems-development-team-10
