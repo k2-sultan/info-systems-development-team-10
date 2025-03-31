@@ -2,7 +2,8 @@
 
 TODO: Brief outline of your project describing the dataset and a link to it.
 
-1. [Planning](https://github.com/user-attachments/files/17902160/breate.docx)
+1. [Planning]([Planning.md](https://github.com/user-attachments/files/19533195/Planning.md)
+)
 
 2. [Requirements](docs/requirements.md)
 3. [Design](docs/design.md)
