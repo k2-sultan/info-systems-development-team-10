@@ -65,5 +65,40 @@ TODO: Repeat as necessary
    ![image](https://github.com/user-attachments/assets/c0e1cd12-8740-4c19-bf48-9b217fb78afa)
 
 
+## USER CASE 2 : Air Quality Advice Game
+
+1.  Run Home.html on a browser
+
+![Screenshot 2025-04-01 204050](https://github.com/user-attachments/assets/2de1e898-080d-4ac5-8781-d0b9eda08ebe)
+
+
+2.  User selects the button  "Air Quality quiz"
+
+![image](https://github.com/user-attachments/assets/88ae8b39-d3b6-4bf8-9385-0d273310f474)
+
+
+3.  Once on the air quality quiz page user will be given to study a question and 
+    three optional answers and will be given a choice to which option is the answer to the question(the answer is in the question)
+
+![Screenshot 2025-04-01 204103](https://github.com/user-attachments/assets/16556446-3633-4b0d-8b5c-23be9fde1749)
+
+4. After user selects an answer there are only 2 outcomes;
+
+    A.  User selects the incorrect option, the system will inform the user it is
+        incorrect and to try again
+   
+    ![Screenshot 2025-04-01 204121](https://github.com/user-attachments/assets/5449b5a3-8005-4629-bf88-3d373612f5db)
+
+    B.  User selects the correct option, the system will inform the user it is
+        correct and will automatically give user a different question
+   
+    ![Screenshot 2025-04-01 205219](https://github.com/user-attachments/assets/81c91793-47f9-4cef-ba7a-9c5328e0650a)
+
+
+6.  If user wishes to obtain another question to try again or does not wish for
+    the current question, user can use the button "Reset Game"
+
+![image](https://github.com/user-attachments/assets/7ac7dece-a7fb-4695-80c8-10adf98e2e9e)
+
 
 
