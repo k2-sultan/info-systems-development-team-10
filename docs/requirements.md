@@ -42,30 +42,10 @@ Delivery Rider (e.g., courier, food delivery) – Optimizes routes based on air 
 
 Environmental Researcher – Studies air quality trends using the app’s historical data for reports and policy recommendations.
 
-| USE-CASE ID | UC1  | 
-| -------------------------------------- | ------------------- |
-| **Description** | View the most up to date Aqi on Bristol Open data of a selected location  |
-| USE-CASE NAME  | View Air Quality Information of location  |
-| **Actors** | Resident, Commuter, Parent |
-| **Assumptions** | - The app has access to real-time AQI data. 
-
-- App has feature that can provide said location for user
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+![Screenshot 2025-04-01 120024](https://github.com/user-attachments/assets/b2248279-5552-465f-a35e-2f4334fe6ca4)
 
 
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
-| -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
-
+![Screenshot 2025-04-01 120013](https://github.com/user-attachments/assets/7a0d611f-ca10-4a42-8522-09f2a54fd889)
 
 
 TODO: Your Use-Case diagram should include all use-cases.
