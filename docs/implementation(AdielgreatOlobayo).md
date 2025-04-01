@@ -56,10 +56,14 @@ TODO: Repeat as necessary
 
      A. Once user is on the map page, user should click on a marker on the map 
         toobtain the air quality of that area on the map.
+   ![image](https://github.com/user-attachments/assets/50060627-d81d-49a8-b2e5-96960c06dfe6)
+
     
      B. Once user is on the map page, user should use the search button on the 
         right side of the map(this method is will not produce a garanteed result as the map only contains
         data on locations indecated on the map).
+   ![image](https://github.com/user-attachments/assets/c0e1cd12-8740-4c19-bf48-9b217fb78afa)
+
 
 
 
