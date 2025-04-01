@@ -7,27 +7,8 @@ The name of the Dataset used is Air Quality Dashboard Map (https://opendata.bris
 
 [code2.zip](https://github.com/user-attachments/files/19555983/code2.zip)
 
-AirAware/
-│
-├── index.html            # Redirect or alias to home.html (optional)
-│
-│
-├── home.html             # Serves as the main welcome page where the system provides the
-│                           user access to both map.html and game.html
-│                           
-│
-├── map.html              # Serves as the page where the user can view the Air 
-│                           Quality Index Map using Bristol Open Data and perform
-│                           searches (iframe with Bristol map)(can only be accesed
-│                           through home.html)
-│                           
-│
-│
-├── game.html             # Serves as the page that allows user to play an Air
-│                           Quality Quiz game(can only be accesed through home.
-│                           html)
-│
-├── app.js                # Shared JavaScript logic (used in game.html)
+![Screenshot 2025-04-01 195055](https://github.com/user-attachments/assets/cf6b373b-3d3c-4dbf-9dca-2965316c24bb)
+
 
 provide a table listing the number of jslint warnings/reports for each module.
 
