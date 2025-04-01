@@ -40,8 +40,26 @@ TODO: Document each query to Bristol Open Data
 TODO: Repeat as necessary
 
 # User guide
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
 
+## USER CASE 1 : View Air Quality of a Location
+
+1.  Run Home.html on a browser
+![Screenshot 2025-04-01 201313](https://github.com/user-attachments/assets/6b97f510-47ff-4450-8c92-33de8e54a007)
+
+2.  User selects the button "View AQI MAP"
+   
+![image](https://github.com/user-attachments/assets/f8248e67-0ea4-48c2-aed7-b9a57e853a28)
+
+![Screenshot 2025-04-01 201356](https://github.com/user-attachments/assets/f9446335-060e-4a00-ab74-fadc62e7569d)
+
+3. User has 2 choices:
+
+     A. Once user is on the map page, user should click on a marker on the map 
+        toobtain the air quality of that area on the map.
+    
+     B. Once user is on the map page, user should use the search button on the 
+        right side of the map(this method is will not produce a garanteed result as the map only contains
+        data on locations indecated on the map).
 
 
 
