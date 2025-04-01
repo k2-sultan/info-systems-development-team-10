@@ -29,7 +29,6 @@ AirAware/
 │
 ├── app.js                # Shared JavaScript logic (used in game.html)
 
-
 provide a table listing the number of jslint warnings/reports for each module.
 
 ## Software Architecture
