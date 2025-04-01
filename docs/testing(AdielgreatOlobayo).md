@@ -4,7 +4,8 @@
 
 ### Test case 1 : testing to see if user can sign in or search any other data type in Bristol Open Data in Map.html
 
-![image](https://github.com/user-attachments/assets/acb40b40-f764-4f3c-83e2-79ba8162e4a2)
+![image](https://github.com/user-attachments/assets/b07349c9-b303-4827-a408-59c4b6c1ad95)
+
 
 
 #### Results:
