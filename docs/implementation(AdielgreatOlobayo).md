@@ -5,6 +5,8 @@ The name of the Dataset used is Air Quality Dashboard Map (https://opendata.bris
 
 ## Project Structure
 
+Each was developed with the help of chatgpt
+
 [code2.zip](https://github.com/user-attachments/files/19555983/code2.zip)
 
 ![Screenshot 2025-04-01 195055](https://github.com/user-attachments/assets/cf6b373b-3d3c-4dbf-9dca-2965316c24bb)
