@@ -3,16 +3,58 @@
 ## User Needs
 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
+User Story 1: Real-Time Air Quality View
+As a resident of my area,
+I want to see current air quality on my street,so that I can prepare my outdoor activities proprely.
 
+User Story 2: Search by Location
+As a commuter,
+I want to search for AQI data by area or postcode,so that I know which route is healthiest.
+
+User Story 3: Health Advice Based on AQI
+As a health-conscious person,
+I want to see clear advice tied to air quality levels,so that I know when to take precautions.
+
+User Story 4: Historical Trends and Charts
+As a researcher,
+I want to view historical AQI data in visual format,so that I can track pollution patterns over time.
 ### Actors
 TODO: List and describe the actors/users for this product.
 
 ### Use Cases
-TODO: Describe each use case (at least one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
+Cyclist – Uses the app to find low-pollution routes for safer commuting. 
+
+Pedestrian – Relies on air quality alerts to avoid polluted areas while walking. 
+
+Daily Commuter – Uses air quality-based transport mode suggestions for a healthier commute. 
+
+Runner/Jogger – Checks real-time AQI data to determine the best time and route for exercise. 
+
+Parent – Monitors air quality near schools or playgrounds to protect their children’s health. 
+
+Elderly Person – Uses the app to receive air quality alerts and avoid high-risk areas. 
+
+Asthma Patient – Relies on personalized notifications to prevent exposure to harmful pollutants. 
+
+Urban Planner – Uses aggregated data from the app to analyze pollution patterns and improve city planning. 
+
+Delivery Rider (e.g., courier, food delivery) – Optimizes routes based on air quality to reduce prolonged exposure. 
+
+Environmental Researcher – Studies air quality trends using the app’s historical data for reports and policy recommendations.
+
+| USE-CASE ID | UC1  | 
+| -------------------------------------- | ------------------- |
+| **Description** | View the most up to date Aqi on Bristol Open data of a selected location  |
+| USE-CASE NAME  | View Air Quality Information of location  |
+| **Actors** | Resident, Commuter, Parent |
+| **Assumptions** | - The app has access to real-time AQI data. 
+
+- App has feature that can provide said location for user
+| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
+| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
+| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
+| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
@@ -23,6 +65,7 @@ TODO: Describe each use case (at least one per team member).
 | **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+
 
 
 TODO: Your Use-Case diagram should include all use-cases.
