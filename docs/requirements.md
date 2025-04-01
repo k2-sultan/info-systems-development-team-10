@@ -51,6 +51,9 @@ Environmental Researcher – Studies air quality trends using the app’s histor
 TODO: Your Use-Case diagram should include all use-cases.
 
 ![Insert your Use-Case Diagram Here](images/use-case.png)
+!(https://github.com/user-attachments/assets/3181166b-afed-49b2-b877-f549422fe20a)
+
+
 
 ## Software Requirements Specification
 ### Functional requirements
