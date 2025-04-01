@@ -47,7 +47,9 @@ Airaware software architecture uses a tree-like architecture where through each 
 4. app.js: This is where game.html obtains its functions such as question 
     randomizer, selecting options, congratulation of the user, question selection, etc. This is also where all questions are stored.
 
-![Insert your component Diagram here](images/component.png)
+
+![Screenshot 2025-04-01 194845](https://github.com/user-attachments/assets/dec9c0c4-67db-44fc-8623-d8c59d343c05)
+
 
 ## Bristol Open Data API
 TODO: Document each query to Bristol Open Data
