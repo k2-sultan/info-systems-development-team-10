@@ -44,7 +44,7 @@ This simple but structured design makes navigation easy while keeping everything
 ![Screenshot 2025-04-01 194845](https://github.com/user-attachments/assets/dec9c0c4-67db-44fc-8623-d8c59d343c05)
 
 ## Bristol Open Data API
-Example of the UML already provided.
+Example of the UML which was already provided.
 
 ![UML Class diagrams representing JSON query results](images/class1.png)
 
@@ -67,6 +67,21 @@ Used the help of ChatGPT to make A simple UML for AirAware
 3. On first use, the users will be given a cookies option, the user should put whichever option they prefer.
 
 ![image](https://github.com/user-attachments/assets/11e0fd5b-584c-4d2e-be07-18a3b908f92b)
+
+4. The user will have 2 options to check the air quality of their desired area.
+
+![image](https://github.com/user-attachments/assets/39757b9e-8480-4f7b-8997-7232e3845505)
+
+4 A. Option 1- clicking on a marker and checking the air quality, such as NO2 levels.
+
+It will show the annual NO2 at first.
+
+![image](https://github.com/user-attachments/assets/93a5b196-f3ae-4a14-9ca6-d586b08e4993)
+
+but scrolling the small box lower, will reveal the history of the NO2 levels
+
+![image](https://github.com/user-attachments/assets/baf4d078-84d1-4e90-b43a-9e4bbfb38f35)
+
 
 
 
