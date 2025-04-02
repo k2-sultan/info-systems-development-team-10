@@ -55,10 +55,13 @@ Used the help of ChatGPT to make A simple UML for AirAware
 
 
 # User guide
+
+## USER CASE 1 : View Air Quality of a Location
+
 1. Run home.html, which will then redirect you to the website through your default browser
 ![image](https://github.com/user-attachments/assets/f569bb72-37a4-4c37-a6e4-f5ab6d5b2843)
 
-2.
+2.User Selects the button 
 ![image](https://github.com/user-attachments/assets/f08b7f22-f542-4b4d-b3a5-3016d3b11e8c)
 
 
