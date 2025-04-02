@@ -16,8 +16,30 @@ done with the help of ChatGPT
 
 provide a table listing the number of jslint warnings/reports for each module.
 
-## Software Architecture
-TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
+## AirAware Software Architecture
+The AirAware software is built using a tree-like structure, meaning users can only move forward or backward between pages in a set path. The main page (home.html) acts as the base, branching out into two other pages: map.html and game.html. (Technically, app.js could be seen as part of game.html since it provides key functions for it.)
+
+1. home.html (Main Page)
+This is the starting page of the software. It’s where users first land and can choose to go to either the map or game page.
+
+2. map.html (Air Quality Map Page)
+This page lets users view and interact with an Air Quality Index (AQI) map using data from Bristol Open Data. However, it only supports AQI data and does not allow access to any other databases.
+
+3. game.html (Quiz Game Page)
+This page features a fun, interactive quiz game where users answer 20 randomly selected questions. It’s designed to be engaging and educational.
+
+4. app.js (Game Functions & Logic)
+This script powers the game by handling:
+
+Randomizing questions
+
+Tracking user choices
+
+Giving feedback (like congratulating correct answers)
+
+Storing all the quiz questions
+
+This simple but structured design makes navigation easy while keeping everything organized.
 
 ![Insert your component Diagram here](images/component.png)
 
