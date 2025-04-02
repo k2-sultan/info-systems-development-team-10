@@ -78,6 +78,11 @@ It will show the annual NO2 at first.
 
 ![image](https://github.com/user-attachments/assets/93a5b196-f3ae-4a14-9ca6-d586b08e4993)
 
+here they can check the annual NO2 levels for the area, by clicking on the button on the bottom right, from 2010-2023.
+
+![image](https://github.com/user-attachments/assets/9c428db0-2243-4c30-904f-d519babbf382)
+
+
 but scrolling the small box lower will reveal the historical annual levels of NO2.
 
 ![image](https://github.com/user-attachments/assets/baf4d078-84d1-4e90-b43a-9e4bbfb38f35)
