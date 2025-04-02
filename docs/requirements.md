@@ -51,14 +51,27 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 ## Software Requirements Specification
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
-    Give each functional requirement a unique ID. e.g. FR1, FR2, ...
-    Indicate which UC the requirement comes from.
+ 
+The system lets the user search the AQI of an area in the provided search box (UC1) 
+
+The system shall Display available searchable areas on the map with the name of the location(UC1) 
+
+The system shall get regular air quality updates on the map (UC1) 
+
+The system displays whether the user has chosen the correct or incorrect location in the game  (UC2) 
+
+The system allows the user to reset the game with the reset button (UC2) 
 
 
 ### Non-Functional Requirements
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
+The system shall be accessible 24/7 (UC2/UC1) 
 
-Indicate which UC the requirement comes from.
+The system shall have a clean and mobile-responsive interface. (UC2/UC1) 
+
+The application shall be responsive on different devices such as laptops, phones etc. (UC1/UC2) 
+
+The system shall display data in an easy-to-understand visual format. (UC1) 
+
+The system shall fast pace and engaging (UC2) 
+
+ 
