@@ -41,7 +41,7 @@ Storing all the quiz questions
 
 This simple but structured design makes navigation easy while keeping everything organized.
 
-![Insert your component Diagram here](images/component.png)
+![Screenshot 2025-04-01 194845](https://github.com/user-attachments/assets/dec9c0c4-67db-44fc-8623-d8c59d343c05)
 
 ## Bristol Open Data API
 TODO: Document each query to Bristol Open Data
