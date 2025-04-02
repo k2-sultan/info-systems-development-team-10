@@ -64,6 +64,10 @@ Used the help of ChatGPT to make A simple UML for AirAware
 2.User Selects the button "View AQI MAP" to enter the maps section.
 ![image](https://github.com/user-attachments/assets/f08b7f22-f542-4b4d-b3a5-3016d3b11e8c)
 
+3. On first use, the users will be given a cookies option, the user should put whichever option they prefer.
+
+![image](https://github.com/user-attachments/assets/11e0fd5b-584c-4d2e-be07-18a3b908f92b)
+
 
 
 
