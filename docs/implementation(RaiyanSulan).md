@@ -72,15 +72,20 @@ Used the help of ChatGPT to make A simple UML for AirAware
 
 ![image](https://github.com/user-attachments/assets/39757b9e-8480-4f7b-8997-7232e3845505)
 
-4 A. Option 1- clicking on a marker and checking the air quality, such as NO2 levels.
+4 A. Option 1- clicking on a marker and checking the air quality, NO2 levels.
 
 It will show the annual NO2 at first.
 
 ![image](https://github.com/user-attachments/assets/93a5b196-f3ae-4a14-9ca6-d586b08e4993)
 
-but scrolling the small box lower, will reveal the history annual levelsof the NO2 levels
+but scrolling the small box lower will reveal the historical annual levels of NO2.
 
 ![image](https://github.com/user-attachments/assets/baf4d078-84d1-4e90-b43a-9e4bbfb38f35)
+
+4 B. Option 2- clicking Search button and manually putting in their desired area address which will let them see the same things as option 1, but some areas are not covered, so they might not get a search result.
+
+![image](https://github.com/user-attachments/assets/39caad1d-3b53-4abf-b628-40ca351fa4f9)
+
 
 
 
