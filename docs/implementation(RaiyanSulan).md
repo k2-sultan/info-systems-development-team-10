@@ -11,7 +11,7 @@ As of the most recent update, the dataset was last recorded on December 13, 2024
 done with the help of ChatGPT
 [code2.zip](https://github.com/user-attachments/files/19555983/code2.zip)
 
-![Screenshot 2025-04-01 195055](https://github.com/user-attachments/assets/cf6b373b-3d3c-4dbf-9dca-2965316c24bb)
+docs/images/Implementation_pic_1_raiyan.png
 
 
 provide a table listing the number of jslint warnings/reports for each module.
