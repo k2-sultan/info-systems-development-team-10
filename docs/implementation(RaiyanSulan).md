@@ -44,10 +44,12 @@ This simple but structured design makes navigation easy while keeping everything
 ![Screenshot 2025-04-01 194845](https://github.com/user-attachments/assets/dec9c0c4-67db-44fc-8623-d8c59d343c05)
 
 ## Bristol Open Data API
-TODO: Document each query to Bristol Open Data
+Example of the UML already provided.
 
 ![UML Class diagrams representing JSON query results](images/class1.png)
-TODO: Repeat as necessary
+
+
+used the help of ChatGPT to make A simple UML for AirAware
 
 # User guide
 TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
