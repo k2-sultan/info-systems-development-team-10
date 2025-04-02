@@ -1,7 +1,11 @@
 # Implementation (Done by Raiyan Sultan)
 
 ## Introduction
-TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
+The dataset utilized for this project is the Air Quality Dashboard Map (Bristol Open Data). It provides annual NO₂ (nitrogen dioxide) concentration levels for selected areas within Bristol. Additionally, it includes historical NO₂ data, allowing users to analyze past air quality trends in these regions.
+
+One of the key features of this dataset is its interactive search functionality, which enables users to locate and view NO₂ concentration data for specific locations marked on the map. However, a known limitation is that it does not provide air quality information for unmarked areas, meaning that some locations may not have recorded data available.
+
+As of the most recent update, the dataset was last recorded on December 13, 2024.
 
 ## Project Structure
 done with the help of ChatGPT
