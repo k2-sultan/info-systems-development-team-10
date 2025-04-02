@@ -33,5 +33,5 @@ The app should atleast perform basic map functions and display air quality ideas
     3. Run on browsers on both mobile and deskstop
     4. User should be able to search for a general term
 
-![Insert your Context Diagram Here](images/context.png)![428780793-843aba7f-37bc-439e-afb6-0e0560dc23c9](https://github.com/user-attachments/assets/83c97a21-d344-47f0-aa42-9edf51a42c81)
+![428780793-843aba7f-37bc-439e-afb6-0e0560dc23c9](https://github.com/user-attachments/assets/83c97a21-d344-47f0-aa42-9edf51a42c81)
 
