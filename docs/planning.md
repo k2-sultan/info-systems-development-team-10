@@ -28,7 +28,7 @@ Other customer options:
 
 ## Project Scope
 The app should atleast perform basic map functions and display air quality ideas 
-    1. perform air quality advice for individuals based on their prefrences
+    1. perform air quality advice for individuals based on their preferences
     2. Display lastest Aqi information from Bristol Open data
     3. Run on browsers on both mobile and deskstop
     4. User should be able to search for a general term
