@@ -4,41 +4,34 @@
 
 ### User stories
 User Story 1: Real-Time Air Quality View
-As a resident of my neighbourhood,
+As a resident of my neighbourhood;
 I would like to have a preview of the current air quality on my street so that I can properly prepare for my outdoor activities.
 
-User Story 2: Search by Location
+User Story 2: Search by Location;
 As a daily commuter,
 I want to search for AQI data by data or postcode to determine which route is healthiest for my regular walks.
 
-User Story 3: Health Advice Based on AQI
+User Story 3: Health Advice Based on AQI;
 As a health-conscious student,
 I want to have fun while studying health so that I would find it entertaining.
 
-User Story 4: Historical Trends and Charts
+User Story 4: Historical Trends and Charts;
 As a journalist,
 I want to select the historical AQI data of in area so that i can write reports of the changes over time.
+
 ### Actors
 
-Cyclist – Uses the app to find low-pollution routes for safer commuting. 
+Cyclist – Uses the app to discover which route will be best for safer commuting. 
 
-Pedestrian – Relies on air quality alerts to avoid polluted areas while walking. 
+Pedestrian – Uses app to discover which paths will user be able to take to avoid polluted areas while walking to their destination.
 
-Daily Commuter – Uses air quality-based transport mode suggestions for a healthier commute. 
+Daily Commuter – Uses app to decide which mode of transportation will be best for the day to have a healthier commute. 
 
-Runner/Jogger – Checks real-time AQI data to determine the best time and route for exercise. 
+Parent – Uses AQI map to search places where their children have outdoor activities with low-risk pollution from the air.
 
-Parent – Monitors air quality near schools or playgrounds to protect their children’s health. 
+Children  – Uses AQI game to learn many air quality facts while having an engaging time.
 
-Elderly Person – Uses the app to receive air quality alerts and avoid high-risk areas. 
-
-Asthma Patient – Relies on personalized notifications to prevent exposure to harmful pollutants. 
-
-Urban Planner – Uses aggregated data from the app to analyze pollution patterns and improve city planning. 
-
-Delivery Rider (e.g., courier, food delivery) – Optimizes routes based on air quality to reduce prolonged exposure. 
-
-Environmental Researcher – Studies air quality trends using the app’s historical data for reports and policy recommendations.
+Environmental Researcher – User AQI MAP to get the Historical Data of a given area in other to aid their research.
 
 ### Use Cases
 
