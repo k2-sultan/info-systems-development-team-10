@@ -49,7 +49,10 @@ Example of the UML already provided.
 ![UML Class diagrams representing JSON query results](images/class1.png)
 
 
-used the help of ChatGPT to make A simple UML for AirAware
+Used the help of ChatGPT to make A simple UML for AirAware
+
+![image](https://github.com/user-attachments/assets/4f5673a8-de06-4801-a0b1-68a49c5bc056)
+
 
 # User guide
 TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
