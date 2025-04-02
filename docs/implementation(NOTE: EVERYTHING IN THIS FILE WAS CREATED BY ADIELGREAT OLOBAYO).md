@@ -30,7 +30,8 @@ Airaware software architecture uses a tree-like architecture where through each 
     randomizer, selecting options, congratulation of the user, question selection, etc. This is also where all questions are stored.
 
 
-![Screenshot 2025-04-01 194845](https://github.com/user-attachments/assets/dec9c0c4-67db-44fc-8623-d8c59d343c05)
+![image](https://github.com/user-attachments/assets/548be57a-f2aa-460a-a38f-b4b6a147bbf2)
+
 
 
 ## Bristol Open Data API
