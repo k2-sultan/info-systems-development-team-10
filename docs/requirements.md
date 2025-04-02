@@ -4,24 +4,22 @@
 
 ### User stories
 User Story 1: Real-Time Air Quality View
-As a resident of my area,
-I want to see current air quality on my street,so that I can prepare my outdoor activities proprely.
+As a resident of my neighbourhood,
+I would like to have a preview of the current air quality on my street so that I can properly prepare for my outdoor activities.
 
 User Story 2: Search by Location
-As a commuter,
-I want to search for AQI data by area or postcode,so that I know which route is healthiest.
+As a daily commuter,
+I want to search for AQI data by data or postcode to determine which route is healthiest for my regular walks.
 
 User Story 3: Health Advice Based on AQI
-As a health-conscious person,
-I want to see clear advice tied to air quality levels,so that I know when to take precautions.
+As a health-conscious student,
+I want to have fun while studying health so that I would find it entertaining.
 
 User Story 4: Historical Trends and Charts
-As a researcher,
-I want to view historical AQI data in visual format,so that I can track pollution patterns over time.
+As a journalist,
+I want to select the historical AQI data of in area so that i can write reports of the changes over time.
 ### Actors
-TODO: List and describe the actors/users for this product.
 
-### Use Cases
 Cyclist – Uses the app to find low-pollution routes for safer commuting. 
 
 Pedestrian – Relies on air quality alerts to avoid polluted areas while walking. 
@@ -41,6 +39,8 @@ Urban Planner – Uses aggregated data from the app to analyze pollution pattern
 Delivery Rider (e.g., courier, food delivery) – Optimizes routes based on air quality to reduce prolonged exposure. 
 
 Environmental Researcher – Studies air quality trends using the app’s historical data for reports and policy recommendations.
+
+### Use Cases
 
 ![Screenshot 2025-04-01 120024](https://github.com/user-attachments/assets/b2248279-5552-465f-a35e-2f4334fe6ca4)
 
