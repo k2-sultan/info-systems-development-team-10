@@ -4,9 +4,8 @@
 TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
 
 ## Project Structure
-TODO: Provide an outline of the project folder structure and the role of each file within it.
-provide a table listing the number of jslint warnings/reports for each module.
-
+done with the help of ChatGPT
+[code2.zip](https://github.com/user-attachments/files/19555983/code2.zip)
 ## Software Architecture
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
 
