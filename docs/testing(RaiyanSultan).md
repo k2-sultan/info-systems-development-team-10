@@ -17,7 +17,7 @@ If we check the table thoroughly, we see only NO2 data; hence, the users will ha
 
 
 #### Issue:
-  Both me and my partnet wish to integrate other harmful gas data, data for gases like CO2, O3, CO, etc, so that users can check for any harmful gas levels in the areas desired while inspecting the map. However, we encountered an issue when trying to add this. While the map itself functions properly, we are unable to integrate other air quality data as intended. Ideally, users should be able to view pollutant concentrations at specific locations and other air quality data.
+  Both me and my partnet wish to integrate other harmful gas data, data for gas levels like CO2, O3, CO, etc, so that users can check for any harmful gas levels in the areas desired while inspecting the map. However, we encountered an issue when trying to add this. While the map itself functions properly, we are unable to integrate other air quality data as intended. Ideally, users should be able to view pollutant concentrations at specific locations and other air quality data.
 
 #### Current Status: Fail
 
