@@ -35,15 +35,12 @@ Environmental Researcher – User AQI MAP to get the Historical Data of a given 
 
 ### Use Cases
 
-![Screenshot 2025-04-01 120024](https://github.com/user-attachments/assets/b2248279-5552-465f-a35e-2f4334fe6ca4)
+![Screenshot 2025-04-02 154652](https://github.com/user-attachments/assets/ce2a8ed3-3b76-46d5-b253-8e4e9315b5fc)
 
-
-![Screenshot 2025-04-01 120013](https://github.com/user-attachments/assets/7a0d611f-ca10-4a42-8522-09f2a54fd889)
-
+![Screenshot 2025-04-02 154707](https://github.com/user-attachments/assets/04fb1018-1300-412c-8d46-94be53495e0f)
 
 TODO: Your Use-Case diagram should include all use-cases.
 
-![Insert your Use-Case Diagram Here](images/use-case.png)
 ![ChatGPT Image Apr 1, 2025, 01_08_16 PM](https://github.com/user-attachments/assets/859a040e-8c3d-4265-a5fb-638a506b857c)
 
 
@@ -64,6 +61,7 @@ The system allows the user to reset the game with the reset button (UC2)
 
 
 ### Non-Functional Requirements
+
 The system shall be accessible 24/7 (UC2/UC1) 
 
 The system shall have a clean and mobile-responsive interface. (UC2/UC1) 
