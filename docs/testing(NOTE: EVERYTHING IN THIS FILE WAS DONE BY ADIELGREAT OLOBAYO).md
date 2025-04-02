@@ -2,14 +2,14 @@
 
 ## Test Plan
 
-### Test case 1 : testing to see if user can sign in or search any other data type in Bristol Open Data in Map.html
+### Test case 1: testing to see if the user can sign in or search any other data type in Bristol Open Data in Map.html
 
 ![image](https://github.com/user-attachments/assets/b07349c9-b303-4827-a408-59c4b6c1ad95)
 
 
 
 #### Results:
-  Once user tries to use the search function to access any other database, user will be given the option to select other data bases if the searched database is found.
+  Once the user tries to use the search function to access any other database, the user will be given the option to select other databases if the searched database is found.
 
   ![Screenshot 2025-04-01 213957](https://github.com/user-attachments/assets/468e6d3a-0e63-4425-9e0a-30cd0c28c5d8)
 
@@ -21,6 +21,9 @@
 
 
 #### Current Status: Fail
+
+
+
 
 | Use-Case ID | Requirement ID | Test Case | Status |
 | ----------- | -------------- | --------- | ------ |
