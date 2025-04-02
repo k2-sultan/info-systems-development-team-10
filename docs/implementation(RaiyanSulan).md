@@ -78,7 +78,7 @@ It will show the annual NO2 at first.
 
 ![image](https://github.com/user-attachments/assets/93a5b196-f3ae-4a14-9ca6-d586b08e4993)
 
-but scrolling the small box lower, will reveal the history of the NO2 levels
+but scrolling the small box lower, will reveal the history annual levelsof the NO2 levels
 
 ![image](https://github.com/user-attachments/assets/baf4d078-84d1-4e90-b43a-9e4bbfb38f35)
 
