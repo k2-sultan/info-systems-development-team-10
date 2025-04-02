@@ -55,7 +55,9 @@ Used the help of ChatGPT to make A simple UML for AirAware
 
 
 # User guide
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
+1. Run home.html, which will then redirect you to the website through your default browser
+![image](https://github.com/user-attachments/assets/f08b7f22-f542-4b4d-b3a5-3016d3b11e8c)
+
 
 
 
