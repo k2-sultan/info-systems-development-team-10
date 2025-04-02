@@ -27,11 +27,11 @@ Other customer options:
     3. incorrect air quality description
 
 ## Project Scope
-The app should atleast perform basic map functions and display air quality ideas 
-    1. perform air quality advice for individuals based on their preferences
-    2. Display lastest Aqi information from Bristol Open data
-    3. Run on browsers on both mobile and deskstop
-    4. User should be able to search for a general term
+The app should at least perform basic map functions and display air quality ideas 
+    1. showcase air quality advice for individuals.
+    2. Display the latest Aqi information from Bristol Open data.
+    3. Run on browsers on both mobile and desktop.
+    4. User should be able to search for a general term.
 
 ![428780793-843aba7f-37bc-439e-afb6-0e0560dc23c9](https://github.com/user-attachments/assets/83c97a21-d344-47f0-aa42-9edf51a42c81)
 
